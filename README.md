@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Scotty Labs is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by gradient-ventures) and added to the network as a stub for full-pipeline profiling.
+Scotty Labs is a technology company focused on open-source automotive and robotics solutions. It maintains the Open Source Car Control (OSCC) project, providing hardware designs, firmware, and software tools to convert vehicles into autonomous research platforms. The company contributes to the robotics ecosystem with open hardware, C++ bindings for ZeroMQ, and other engineering resources. Backed by Gradient Ventures, Scotty Labs aims to accelerate autonomous vehicle development through accessible, community-driven tools.
 
-**Areas:** Company
+**Areas:** automotive · robotics · open-source · hardware · autonomous-driving
 
 ## Scotty Labs on APIs.io
 
@@ -76,60 +76,44 @@ Everything profiled for Scotty Labs is published on APIs.io rather than in this 
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Scotty Labs Authentication](https://apis.io/security/scotty-labs/scotty-labs-authentication/)
 - [Scotty Labs Domain Security](https://apis.io/security/scotty-labs/scotty-labs-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Scotty Labs Scopes](https://apis.io/scopes/scotty-labs/scotty-labs-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Scotty Labs Plans Pricing](https://apis.io/plans/scotty-labs/scotty-labs-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Scotty Labs Rate Limits](https://apis.io/rate-limits/scotty-labs/scotty-labs-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.scotty.ai/)
+- [Documentation](https://github.com/scotty-labs/oscc/wiki)
+- [Support](https://github.com/scotty-labs/oscc/issues)
+- [GitHub](https://github.com/scotty-labs)
 
 ## API Evangelist rating
 
-**Kin Score 1.3** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 26.8 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 6.0** — agent-aware
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | yes |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scotty-labs/](https://apis.io/providers/scotty-labs/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
